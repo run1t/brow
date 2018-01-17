@@ -1,0 +1,10 @@
+{
+  "name": "@run1t/brow",
+  "version": "1.0.0",
+  "description": "A tiny browser detector",
+  "main": "./lib/brow.js",
+  "types": "./lib/brow.d.ts",
+  "repository": "git@github.com:run1t/brow.git",
+  "author": "run1t <reunanln@gmail.com>",
+  "license": "MIT"
+}
